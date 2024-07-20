@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "VeeamFolderSynchronizer": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\Test\\Source\" \"C:\\Test\\Replica\" 60 \"C:\\Test\\Logs.txt\""
+    }
+  }
+}
